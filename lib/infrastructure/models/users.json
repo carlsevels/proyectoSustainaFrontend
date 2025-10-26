@@ -1,0 +1,35 @@
+{
+    "id": 1,
+    "email": "example@receptor3.com",
+    "datosPersonales": {
+        "id": 1,
+        "nombre": "Carlos Eduardo",
+        "apellidoPaterno": "Vélez",
+        "apellidoMaterno": "Salazar",
+        "direccion": {
+            "id": 1,
+            "calle": "Hilario Ayala 210",
+            "colonia": "Carmen Serdan",
+            "codigoPostal": 67198,
+            "municipio": "Guadalupe",
+            "estado": "Nuevo Leon",
+            "pais": "México",
+            "ubicacion": {
+                "id": 1,
+                "latitud": 123.21,
+                "longitud": 1234.33,
+                "updatedAt": "2025-10-25T18:59:49.689Z",
+                "createdAt": "2025-10-25T18:59:49.689Z"
+            },
+            "updatedAt": "2025-10-25T18:59:49.689Z",
+            "createdAt": "2025-10-25T18:59:49.689Z",
+            "ubicacionId": 1
+        },
+        "updatedAt": "2025-10-25T18:59:49.689Z",
+        "createdAt": "2025-10-25T18:59:49.689Z",
+        "direccionId": 1
+    },
+    "updatedAt": "2025-10-25T18:59:49.688Z",
+    "createdAt": "2025-10-25T18:59:49.688Z",
+    "datosPersonalesId": 1
+}
